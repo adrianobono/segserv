@@ -26,15 +26,15 @@
   "totos":[
     {
       "id" : 0,
-      "createdAt": "First post!",
+      "createdAt": null,
       "description" : "Task 0",
       "done" : true
     },
     {
       "id" : 1,
-      "createdAt": "Secont post!",
+      "createdAt": null,
       "description" : "Task 1!",
       "done" : false
     }
-  ]
+  ],
 }
