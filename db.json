@@ -2,12 +2,12 @@
 "clients": [
  {
 	"id": 1,	
-	"name": 'Marcos Antonio', 
+	"name": "Marcos Antonio", 
 	"age": 26,
 	"city": "São Paulo",	
 	"state": "SP",
 	"cpf": "60889087008",
-	"email": 'marcos@teste.com',
+	"email": "marcos@teste.com",
 	"phone": "41999999999"
 },
  {
