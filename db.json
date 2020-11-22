@@ -1,38 +1,24 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    },
-    {
-      "id" : 1,
-      "title": "Secont post!",
-      "content" : "My second content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    },
-      {
-      "id": 1,
-      "content": "Second!",
-      "username": "first_cool"
-    }
-  ],
-  "totos":[
-    {
-      "id" : 0,
-      "description" : "Task 0",
-      "done" : true
-    },
-    {
-      "id" : 1,
-      "description" : "Task 1!",
-      "done" : false
-    }
-  ]
+"clients": [
+ {
+	"id": 1,	
+	"name": 'Marcos Antonio', 
+	"age": 26,
+	"city": "São Paulo",	
+	"state": "SP",
+	"cpf": "60889087008",
+	"email": 'marcos@teste.com',
+	"phone": "41999999999"
+},
+ {
+    "id": 2,
+	"name": "Pedro Felipe Souza",
+	"age": 32,
+	"city" : "Maringá",
+	"state" : "PR",
+	"cpf" : "80548366004",
+	"email ": "pedrof@teste.com",
+	"phone": "41999999988"
+},
+]
 }
