@@ -1,24 +1,24 @@
 {
 "clients": [
- {
-	"id": 1,	
-	"name": "Marcos Antonio", 
-	"age": 26,
-	"city": "São Paulo",	
-	"state": "SP",
-	"cpf": "60889087008",
-	"email": "marcos@teste.com",
-	"phone": "41999999999"
-},
- {
-    "id": 2,
-	"name": "Pedro Felipe Souza",
-	"age": 32,
+  {
+	"id" : 1,	
+	"name" : "Marcos Antonio", 
+	"age" : 26,
+	"city" : "São Paulo",	
+	"state" : "SP",
+	"cpf" : "60889087008",
+	"email" : "marcos@teste.com",
+	"phone" : "41999999999"
+ },
+  {
+        "id" : 2,
+	"name" : "Pedro Felipe Souza",
+	"age" : 32,
 	"city" : "Maringá",
 	"state" : "PR",
 	"cpf" : "80548366004",
-	"email ": "pedrof@teste.com",
+	"email" : "pedrof@teste.com",
 	"phone": "41999999988"
-},
+ }
 ]
 }
